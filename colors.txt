@@ -5,3 +5,6 @@
 
 [สีดำ]
 ทะเลสีดำ
+
+[A Color]
+hello Color A
